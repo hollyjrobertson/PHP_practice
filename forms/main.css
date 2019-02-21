@@ -1,0 +1,16 @@
+
+
+form {
+    border: 2px solid #000000;
+    width: 30%;
+    margin: 1%;
+    padding: 1%;
+}
+
+h3 {
+    text-align: left;
+}
+
+.class {
+    display: none;
+}
